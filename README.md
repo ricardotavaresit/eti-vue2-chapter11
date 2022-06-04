@@ -1,4 +1,6 @@
-Chapter 11 - Vue router in Vue JS
+<p align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="200px"></p>
+
+<h2>Chapter 11 - Vue router in Vue JS</h2>
 
 - Class 01: install vue-router in Vue JS
 
