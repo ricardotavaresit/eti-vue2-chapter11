@@ -1,7 +1,8 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="200px"></p>
 
-<h2>Chapter 11 - Vue routerD</h2>
+<h2>Chapter 11 - Vue router</h2>
 
+- Class 01: Install Vue router in Vue JS
 
 
 ## Technologies used
