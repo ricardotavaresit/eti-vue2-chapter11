@@ -1,16 +1,6 @@
-<p align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="200px"></p>
+# eti-vue2-chapter11
 
-<h2>Chapter 11 - Vue router</h2>
-
-- Class 01: Install Vue router in Vue JS
-
-
-## Technologies used
-
-- VueJS;
-- HTML;
-- JavaScript
-
+> A Vue.js project
 
 ## Build Setup
 
@@ -25,8 +15,4 @@ npm run dev
 npm run build
 ```
 
-## Contact Us
-
-- Email: ricardotavaresit@gmail.com
-- Tlm: +351 968 348 200
-- [LinkedIn](https://www.linkedin.com/in/ricardotavaresit/)
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
