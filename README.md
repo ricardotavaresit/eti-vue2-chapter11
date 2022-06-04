@@ -1,18 +1,14 @@
-# eti-vue2-chapter11
+Chapter 11 - Vue router in Vue JS
 
-> A Vue.js project
+- Class 01: install vue-router in Vue JS
 
-## Build Setup
+## Technologies used
+- VueJS;
+- HTML;
+- JavaScript
 
-``` bash
-# install dependencies
-npm install
+## Contact Us
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- Email: ricardotavaresit@gmail.com
+- Tlm: +351 968 348 200
+- [LinkedIn](https://www.linkedin.com/in/ricardotavaresit/)
