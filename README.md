@@ -2,7 +2,8 @@
 
 <h2>Chapter 11 - Vue router in Vue JS</h2>
 
-- Class 01: install vue-router in Vue JS
+- Class 01: Install vue-router in Vue JS
+- Class 02: Create components to use in routes in Vue JS
 
 ## Technologies used
 - VueJS;
