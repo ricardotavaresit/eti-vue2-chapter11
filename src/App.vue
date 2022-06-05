@@ -2,16 +2,27 @@
   <div id="app">
     <img src="./assets/logo.png">
     <h1>{{ msg }}</h1>
+    <tasks-component/>
+    <product-component/>
+    <home-component/>
   </div>
 </template>
 
 <script>
+import TasksComponent from "./components/TasksComponent";
+import ProductComponent from "./components/ProductComponent"
+import HomeComponent from "./components/HomeComponent"
 export default {
   name: 'app',
   data () {
     return {
       msg: 'Chapter 11'
     }
+  },
+  components:{
+    TasksComponent,
+    ProductComponent,
+    HomeComponent
   }
 }
 </script>
