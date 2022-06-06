@@ -6,13 +6,12 @@
 
 
 <script>
-export default{
-  data(){
-    return{
-      title: "Hi Product"
-    }
-
-  }
-}
+export default {
+  data() {
+    return {
+      title: "Hi Product",
+    };
+  },
+};
 </script>
 
