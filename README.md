@@ -4,6 +4,7 @@
 
 - Class 01: Install vue-router in Vue JS
 - Class 02: Create components to use in routes in Vue JS
+- Class 03: Create routes in Vue JS
 
 ## Technologies used
 - VueJS;
