@@ -1,57 +1,20 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <h1>{{ msg }}</h1>
-    <tasks-component/>
-    <product-component/>
-    <home-component/>
+    <router-link to="/">Home</router-link>
+      <router-link to="/products">Products</router-link>
+      <router-link to="/tasks">Tasks</router-link>
+    <router-view>
+    </router-view>
   </div>
 </template>
 
 <script>
-import TasksComponent from "./components/TasksComponent";
-import ProductComponent from "./components/ProductComponent"
-import HomeComponent from "./components/HomeComponent"
 export default {
-  name: 'app',
-  data () {
+  name: "app",
+  data() {
     return {
-      msg: 'Chapter 11'
-    }
+      msg: "Chapter 11",
+    };
   },
-  components:{
-    TasksComponent,
-    ProductComponent,
-    HomeComponent
-  }
-}
+};
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
-h1, h2 {
-  font-weight: normal;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-a {
-  color: #42b983;
-}
-</style>
