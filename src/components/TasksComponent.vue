@@ -1,13 +1,14 @@
 <template>
   <div>
     <h1>{{ title }}</h1>
-    <p>Parameter: {{ $route.params.id }}</p>
+    <p>Parameter: {{ id }}</p>
   </div>
 </template>
 
 
 <script>
 export default {
+  props: ["id"],
   data() {
     return {
       title: "Hi Task",
