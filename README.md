@@ -8,6 +8,7 @@
 - Class 04: Remove hash from URL in Vue JS
 - Class 05: Create named routes in Vue JS
 - Class 06: Routes with parameters in Vue JS
+- Class 07: Routes with props in Vue JS
 
 ## Technologies used
 - VueJS;
