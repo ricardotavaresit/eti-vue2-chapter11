@@ -5,5 +5,5 @@ import TasksComponent from "./components/TasksComponent";
 export default [
   { path: '/', component: HomeComponent },
   { path: '/products', component: ProductComponent, name:'route_products' },
-  { path: '/tasks', component: TasksComponent }
+  { path: '/task/:id', component: TasksComponent, name:"task"}
 ]
